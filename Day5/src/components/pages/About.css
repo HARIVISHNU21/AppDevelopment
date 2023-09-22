@@ -1,0 +1,34 @@
+/* CSS for About component */
+
+.about-container {
+    padding: 20px;
+    background-color: #51aabd;
+    text-align: center;
+    
+    height: 100vh;
+  }
+  
+  .about-head {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  .about-head-info {
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: #333;
+    padding-top: 50px;
+  }
+  
+  .about-vision {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .about-vision-info {
+    font-size: 18px;
+    color: #555;
+  }
+  

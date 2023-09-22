@@ -1,0 +1,62 @@
+/* Register.css */
+
+.auth-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #c31c1c;
+    background-image: url(https://images8.alphacoders.com/132/thumbbig-1325000.webp)
+
+  }
+  
+  .auth-wrapper {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(247, 5, 5, 0.2);
+    width: 300px;
+  }
+  
+  .auth-heading {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .auth-field {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .auth-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .auth-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .auth-links {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .auth-links a {
+    text-decoration: none;
+    color: #007bff;
+  }
+  
+  .auth-links a:hover {
+    text-decoration: underline;
+  }
+  
