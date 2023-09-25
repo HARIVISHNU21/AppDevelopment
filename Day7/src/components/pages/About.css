@@ -1,0 +1,42 @@
+/* CSS for About component */
+.about-container {
+  padding: 20px;
+  text-align: center;
+  height: 100vh;
+  /* Set the background image and make it cover the entire container */
+  background-image: url('');
+  
+  background-repeat:repeat;
+}
+.about-container {
+    padding: 20px;
+    background-color: #51aabd;
+    text-align: center;
+    
+    height: 100vh;
+  }
+  
+  .about-head {
+    margin: auto;
+    max-width: 900px;
+  }
+  
+  .about-head-info {
+    font-size: 18px;
+    margin-bottom: 20px;
+    color: #edf503;
+    padding-top: 50px;
+  }
+  
+  .about-vision {
+    font-size: 18px;
+    font-weight: bold;
+    color: #e3f309;
+    margin-bottom: 10px;
+  }
+  
+  .about-vision-info {
+    font-size: 20px;
+    color: #ecfd05;
+  }
+  
