@@ -1,0 +1,57 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://assets.sutori.com/user-uploads/image/06277f6e-9d0d-4454-bfd3-f39e0e2163c3/a7b0a7613abb508c34e27bca39c8f5e6.gif');
+  }
+  
+  .login-form {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #0404ef;
+    border-radius: 5px;
+    background-color: #fbf304;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .auth-field {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #fd0808;
+    border-radius: 3px;
+  }
+  
+  .auth-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #061afb;
+    color: #f80a0a;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .auth-btn:hover {
+    background-color: #0c7cf5;
+  }
+  
+  .auth-links {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    color: #c508fa;
+    text-decoration: none;
+  }
+  
+  .auth-links:hover {
+    text-decoration: underline;
+  }
+  
