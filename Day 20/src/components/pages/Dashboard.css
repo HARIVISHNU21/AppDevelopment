@@ -1,0 +1,113 @@
+/* dashboard.css */
+
+/* Style for the main container */
+.main-wrapper {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Style for the welcome message */
+  .URBONOISE-container {
+    text-align: center;
+    margin-bottom: 290px;
+  }
+  
+  /* Style for the location information */
+  p {
+    font-size: 18px;
+  }
+  
+  /* Style for the search box */
+  .search-box {
+    margin-bottom: 25px;
+  }
+  
+  input[type='text'] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #6e06f6;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  /* Style for the city list */
+  .city-list {
+    h2 {
+      font-size: 18px;
+      margin-bottom: 10px;
+    }
+  
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+  
+    li {
+      font-size: 16px;
+      margin-bottom: 5px;
+    }
+  }
+  
+  /* Set the background image */
+  .main-wrapper {
+    display: flexbox;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-image: url("https://img.freepik.com/premium-vector/color-pin-logo_412311-3436.jpg?w=740");
+    height: 100vh;
+    background-repeat: repeat;
+ 
+    background-attachment: fixed;
+    
+  }
+  
+  /* ImageGallery.css */
+
+.image-gallery {
+    text-align: center;
+    border: #2af786;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .images {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .image-container {
+    margin: 19px;
+    border: 5px solid #6e06f6; 
+    background-color: antiquewhite;
+    padding: 10px; 
+  }
+  
+  img {
+    max-width: 100%;
+    background-color: antiquewhite;
+    height: auto;
+  }
+  
+  button {
+    background-color: #2af786;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+  }
+  
+  .image-details {
+    margin-top: 20px;
+    font-size: 18px;
+    background-color:wheat;
+  }
+  
+  
